@@ -6453,12 +6453,12 @@ img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-sha
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.eot);
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.woff2) format("woff2"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.woff) format("woff"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.ttf) format("truetype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.svg#fontawesome) format("svg");
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.eot);
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.woff2) format("woff2"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.woff) format("woff"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.ttf) format("truetype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-brands-400.svg#fontawesome) format("svg");
 }
 .fab {
 	font-family: "Font Awesome 5 Brands";
@@ -6468,12 +6468,12 @@ img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-sha
 	font-style: normal;
 	font-weight: 900;
 	font-display: auto;
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.eot);
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.eot?#iefix) format("embedded-opentype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.woff2) format("woff2"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.woff) format("woff"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.ttf) format("truetype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.svg#fontawesome) format("svg");
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.eot);
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.eot?#iefix) format("embedded-opentype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.woff2) format("woff2"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.woff) format("woff"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.ttf) format("truetype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-duotone-900.svg#fontawesome) format("svg");
 }
 .fad {
 	position: relative;
@@ -11682,12 +11682,12 @@ img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-sha
 	font-style: normal;
 	font-weight: 300;
 	font-display: auto;
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.eot);
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.eot?#iefix) format("embedded-opentype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.woff2) format("woff2"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.woff) format("woff"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.ttf) format("truetype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.svg#fontawesome) format("svg");
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.eot);
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.eot?#iefix) format("embedded-opentype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.woff2) format("woff2"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.woff) format("woff"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.ttf) format("truetype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-light-300.svg#fontawesome) format("svg");
 }
 .fal {
 	font-weight: 300;
@@ -11697,12 +11697,12 @@ img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-sha
 	font-style: normal;
 	font-weight: 400;
 	font-display: auto;
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.eot);
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.woff2) format("woff2"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.woff) format("woff"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.ttf) format("truetype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.svg#fontawesome) format("svg");
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.eot);
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.woff2) format("woff2"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.woff) format("woff"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.ttf) format("truetype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-regular-400.svg#fontawesome) format("svg");
 }
 .fal,
 .far {
@@ -11716,12 +11716,13 @@ img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-sha
 	font-style: normal;
 	font-weight: 900;
 	font-display: auto;
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.eot);
-	src: url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.woff2) format("woff2"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.woff) format("woff"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.ttf) format("truetype"),
-		url(/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.svg#fontawesome) format("svg");
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.eot);
+	src: url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.woff2) format("woff2"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.woff) format("woff"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.ttf) format("truetype"),
+		url(https://lagi.uxper.co/wp-content/themes/lagi/assets/fonts/font-awesome/webfonts/fa-solid-900.svg#fontawesome) format("svg");
+		/* Tetap */
 }
 .fa,
 .fas {
